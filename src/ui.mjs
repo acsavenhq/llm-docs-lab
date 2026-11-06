@@ -107,7 +107,7 @@ const PAGE_WITH_COMMENTS = /* html */ `<!doctype html>
       "@id": "https://samsonpg.github.io/#person",
       "name": "Samson P G",
       "url": "https://samsonpg.github.io",
-      "jobTitle": "Full-Stack Engineer",
+      "jobTitle": "AI-Native Product Builder",
       "worksFor": { "@type": "Organization", "name": "Acsaven", "url": "https://acsaven.com" },
       "sameAs": ["https://github.com/SamsonPG", "https://github.com/acsavenhq", "https://www.linkedin.com/in/samson-p-g-335964133"]
     },
