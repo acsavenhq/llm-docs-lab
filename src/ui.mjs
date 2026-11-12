@@ -109,7 +109,7 @@ const PAGE_WITH_COMMENTS = /* html */ `<!doctype html>
       "url": "https://samsonpg.github.io",
       "jobTitle": "AI-Native Product Builder",
       "worksFor": { "@type": "Organization", "name": "Acsaven", "url": "https://acsaven.com" },
-      "sameAs": ["https://github.com/SamsonPG", "https://github.com/acsavenhq", "https://www.linkedin.com/in/samson-p-g-335964133"]
+      "sameAs": ["https://github.com/SamsonPG", "https://github.com/acsavenhq", "https://www.linkedin.com/in/samsonpg"]
     },
     {
       "@type": "Dataset",
